@@ -258,7 +258,8 @@ else {
     console.log('Senior');
 }
 
-// some operators are slightly different in javaScript than they are in python - they work the same way but they might be written differently
+// some operators are slightly different in javaScript than they are in python - they work the same way 
+// but they might be written differently
 // https://www.w3schools.com/js/js_operators.asp
 // and &&
 // or ||
